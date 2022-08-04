@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Задание 1,2
-       /* int[] weight=new int[3];
+        int[] weight=new int[3];
         weight[0]=1;
         weight[1]=2;
         weight[2]=3;
@@ -37,11 +37,11 @@ public class Main {
             }
 
         }
-        System.out.println();*/
+        System.out.println();
 
 
         //Задание 3
-        /*int[] weight = new int[3];
+        int[] weight = new int[3];
         weight[0] = 1;
         weight[1] = 2;
         weight[2] = 3;
@@ -70,7 +70,7 @@ public class Main {
             if (i!= 0){
                 System.out.print(", ");}
             }
-        System.out.println();*/
+        System.out.println();
 
         //Задание 4
         int[] weight = new int[3];
